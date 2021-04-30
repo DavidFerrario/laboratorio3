@@ -1,0 +1,48 @@
+div.div1{
+    background-color: cadetblue;
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+    position: absolute;
+}
+div.boton{
+    float: left;
+    background-color: gray;
+    width: auto;
+    height: auto;
+    margin: 1px 1px 50px 1px;
+    padding: 5px;
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif
+}
+div.btopcion:hover {
+    background-color: blue;
+    color: blue;
+    }
+div.btopcion:active {
+    background-color: brown;
+    }
+
+input {
+    display:block;
+    width:150px;
+    }
+input:focus {
+    background-color:greenyellow;
+    }
+div.divimg{
+    margin-top: 50px;
+    width: 150px;
+    height: 250px;
+    float: left;
+    border: solid black 0.5px;
+}
+img.tam-img{
+    
+    width: 100%;
+}
+
+div.divimg:active {
+    Width:500px;
+    height: 500px;
+    }
+    

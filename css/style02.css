@@ -1,0 +1,17 @@
+div.div8{
+    width: 30%;
+    height: auto;
+    padding:5%;
+    box-sizing:border-box;
+    background-color: cadetblue;  
+    float:left;
+    margin: 0.5%;
+      
+            }
+div.caja02Fondo {
+    background-color: rgb(246, 255, 127);
+        margin: auto;
+        width: 80%;
+        height: 90%;
+        
+        }

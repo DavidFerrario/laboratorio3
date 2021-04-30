@@ -1,0 +1,52 @@
+div.Principal{
+
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    
+}
+div.clase1{
+    background-color:chartreuse;
+    width: 75%;
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.clase2{
+    width: 65%;
+    height: auto;
+   background-color: darkkhaki;
+   margin-right: 20%;
+   margin-bottom: 3%;
+   font-size:30px ;
+}
+div.clase3{
+    background-color:chocolate;
+    width: 50%;
+    margin: 10%;
+}
+div.clase4{
+    background-color: cornflowerblue;
+    max-width: 300px;
+    max-height: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    box-sizing: border-box;
+    overflow: auto
+}
+
+div.clase5{
+    background-color: wheat;
+    width: 25%;
+    position:fixed; 
+    Width: 20%;
+    Height: 20% ;
+    top:20%;
+    left:25%;
+    opacity:0.5;
+    overflow-y: auto;
+    visibility: visible;
+    z-index:10;
+    font-size: 30px;
+}

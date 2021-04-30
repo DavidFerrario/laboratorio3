@@ -1,0 +1,54 @@
+div.principal{
+    width: 80%;
+    height: 100%;
+    background-color: lightblue;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.clase1{
+    width: 150px;
+    height: 300px;
+    background-color: lightgreen;
+}
+div.clase2{
+    position:absolute; 
+    top:50%; 
+    left:50%; 
+    width:40%; 
+    height:20%; 
+    overflow:auto;
+    font-size:1vw;/*La letra responsiva o escalable(1% respecto al viewport). */
+    z-index: 3; /*queda por encima del 2*/
+    float: left;
+    background-color: lightpink;
+}
+img.tam-img{
+    
+    width: 100%;
+    height: 100%;
+}
+
+div.claseImg{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin: 1px;
+} 
+html, body {
+    height:100%;
+    margin:0px;
+    background-color: rgb(253, 0, 0)  ;
+    }
+div.clase3{
+    position:absolute; 
+    top:35%; 
+    left:35%; 
+    width:40%; 
+    height:20%; 
+    overflow:auto;
+    font-size:1vw;/*La letra responsiva o escalable(1% respecto al viewport). */
+    z-index: 3; /*queda por encima del 2*/
+    float: left;
+    opacity:0.5;
+    background-color: blanchedalmond;
+}
